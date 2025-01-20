@@ -1,0 +1,11 @@
+name = input("Enter your Name : ")
+adj = input("Enter your Adjective here : ")
+hobby = input("Enter your Hobby here : ")
+course = input("Enter your Course here : ")
+place = input("Enter your Place here : ")
+
+print("\n Here's Your Introduction ")
+print(f"Hi! My name is {name}. I am a very {adj} person.")
+print(f"I am a {course}, and in my free time, I love {hobby}. ")
+print(f"I also enjoy spending time at the {place}.")
+print("Nice to meet you.")
